@@ -1,62 +1,62 @@
 # Nivel Fácil – Refrescar fundamentos
--Suma de un array
+1-Suma de un array
 Dado [1,2,3,4,5], sumar todos los números.
 
--Número par o impar
+2-Número par o impar
 Escribir una función que reciba un número y devuelva “par” o “impar”.
 
--Invertir un string
+3-Invertir un string
 "hola" → "aloh"
 
--Contar vocales en un string
+4-Contar vocales en un string
 "javascript" → 3
 
--Máximo y mínimo de un array
+5-Máximo y mínimo de un array
 [5, 2, 9, 1, 7] → máximo 9, mínimo 1
 
 # Nivel Intermedio – Lógica aplicada y algoritmos clásicos
--Palíndromo
+1-Palíndromo
 Verificar si un string es igual al revés.
 "oso" → true, "hola" → false
 
--FizzBuzz
+2-FizzBuzz
 Imprimir números del 1 al 100:
 “Fizz” si es múltiplo de 3
 “Buzz” si es múltiplo de 5
 “FizzBuzz” si es múltiplo de ambos
 
--Factorial de un número
+3-Factorial de un número
 5! = 5*4*3*2*1 = 120
 
--Fibonacci
+4-Fibonacci
 Mostrar los primeros n números de la secuencia
 
--Eliminar duplicados de un array
+5-Eliminar duplicados de un array
 [1,2,2,3,4,4,5] → [1,2,3,4,5]
 
--Segundo número mayor de un array
+6-Segundo número mayor de un array
 [10, 5, 8, 20] → 10
 
 # Nivel Avanzado – Retos de lógica y pensamiento algorítmico
--Validar contraseña fuerte
+1-Validar contraseña fuerte
 Mínimo 8 caracteres, al menos 1 mayúscula, 1 número y 1 símbolo
 
--Contar ocurrencias de cada letra en un string
+2-Contar ocurrencias de cada letra en un string
 "javascript" → { j:1, a:2, v:1, s:1, c:1, r:1, i:1, p:1, t:1 }
 
--Simular un cajero automático
+3-Simular un cajero automático
 Dar cambio usando billetes de 100, 50, 20 y 10
 
--Encontrar la palabra más larga en una frase
+4-Encontrar la palabra más larga en una frase
 "Hoy es un día hermoso" → "hermoso"
 
--Juego de números – adivina el número
+5-Juego de números – adivina el número
 La computadora genera un número aleatorio 1–100 y el usuario debe adivinarlo con pistas “mayor” o “menor”.
 
--Ordenar array sin .sort()
+6-Ordenar array sin .sort()
 
--Implementar bubble sort o selection sort manualmente
+7-Implementar bubble sort o selection sort manualmente
 
--Resolver Sudoku parcial (mini reto)
+8-Resolver Sudoku parcial (mini reto)
 
--Recibir un array 2D y verificar si filas y columnas cumplen reglas básicas (números 1–9 sin repetir)
+9-Recibir un array 2D y verificar si filas y columnas cumplen reglas básicas (números 1–9 sin repetir)
