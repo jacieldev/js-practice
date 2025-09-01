@@ -1,25 +1,25 @@
 # Easy Level – Refreshing Fundamentals
--Write a JavaScript function to sum all numbers in an array | Given [1,2,3,4,5], sum all the numbers
--Write a JavaScript function to determine if a number is even or odd | Returns "even" or "odd"
--Write a JavaScript function to reverse a string | "hola" → "aloh"
--Write a JavaScript function to count vowels in a string | "javascript" → 3
--Write a JavaScript function to find the maximum and minimum in an array | [5,2,9,1,7] → max 9, min 1
+1-Write a JavaScript function to sum all numbers in an array | Given [1,2,3,4,5], sum all the numbers
+2-Write a JavaScript function to determine if a number is even or odd | Returns "even" or "odd"
+3-Write a JavaScript function to reverse a string | "hola" → "aloh"
+4-Write a JavaScript function to count vowels in a string | "javascript" → 3
+5-Write a JavaScript function to find the maximum and minimum in an array | [5,2,9,1,7] → max 9, min 1
 
 # Intermediate Level – Applied Logic & Classic Algorithms
--Write a JavaScript function to check if a string is a palindrome | "oso" → true, "hola" → false
--Write a JavaScript function to implement FizzBuzz | Print numbers from 1 to 100: "Fizz" if multiple of 3, "Buzz" if multiple of 5, "FizzBuzz" if both
--Write a JavaScript function to calculate the factorial of a number | 5! = 54321 = 120
--Write a JavaScript function to generate the first n numbers of the Fibonacci sequence
--Write a JavaScript function to remove duplicates from an array | [1,2,2,3,4,4,5] → [1,2,3,4,5]
--Write a JavaScript function to find the second largest number in an array | [10,5,8,20] → 10
+1-Write a JavaScript function to check if a string is a palindrome | "oso" → true, "hola" → false
+2-Write a JavaScript function to implement FizzBuzz | Print numbers from 1 to 100: "Fizz" if multiple of 3, "Buzz" if multiple of 5, "FizzBuzz" if both
+3-Write a JavaScript function to calculate the factorial of a number | 5! = 54321 = 120
+4-Write a JavaScript function to generate the first n numbers of the Fibonacci sequence
+5-Write a JavaScript function to remove duplicates from an array | [1,2,2,3,4,4,5] → [1,2,3,4,5]
+6-Write a JavaScript function to find the second largest number in an array | [10,5,8,20] → 10
 
 # Advanced Level – Logic Challenges & Algorithmic Thinking
--Write a JavaScript function to validate a strong password | Minimum 8 characters, at least 1 uppercase letter, 1 number, 1 symbol
--Write a JavaScript function to count occurrences of each letter in a string | "javascript" → { j:1, a:2, v:1, s:1, c:1, r:1, i:1, p:1, t:1 }
--Write a JavaScript function to simulate an ATM | Give change using bills of 100, 50, 20, and 10
--Write a JavaScript function to find the longest word in a sentence | "Today is a beautiful day" → "beautiful"
--Write a JavaScript function to create a number guessing game | The computer generates a random number 1–100, the user guesses with hints "higher" or "lower"
--Write a JavaScript function to sort an array without using .sort()
--Write a JavaScript function to manually implement bubble sort or selection sort
--Write a JavaScript function to solve a partial Sudoku (mini challenge)
--Write a JavaScript function to check a 2D array for row and column rules | Numbers 1–9 without repeating
+1-Write a JavaScript function to validate a strong password | Minimum 8 characters, at least 1 uppercase letter, 1 number, 1 symbol
+2-Write a JavaScript function to count occurrences of each letter in a string | "javascript" → { j:1, a:2, v:1, s:1, c:1, r:1, i:1, p:1, t:1 }
+3-Write a JavaScript function to simulate an ATM | Give change using bills of 100, 50, 20, and 10
+4-Write a JavaScript function to find the longest word in a sentence | "Today is a beautiful day" → "beautiful"
+5-Write a JavaScript function to create a number guessing game | The computer generates a random number 1–100, the user guesses with hints "higher" or "lower"
+6-Write a JavaScript function to sort an array without using .sort()
+7-Write a JavaScript function to manually implement bubble sort or selection sort
+8-Write a JavaScript function to solve a partial Sudoku (mini challenge)
+9-Write a JavaScript function to check a 2D array for row and column rules | Numbers 1–9 without repeating
